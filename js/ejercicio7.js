@@ -1,14 +1,13 @@
 //const day = prompt("Ingrese día").toLowerCase();
 let day = prompt("Ingrese día");
 
-if (day === null || day = "")
+if (day === null || day === "")
  {alert("pción invalida")
     
 } else {
     
 }
 if (
-    if
   day === "lunes" ||
   day === "martes" ||
   day === "miercoles" ||
