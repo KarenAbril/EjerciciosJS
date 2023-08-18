@@ -60,17 +60,17 @@ if (department === "cundinamarca" && purpose === "turismo") {
       "Favor ingrese el objeto de su visita entre: turismo, comidas, museos"
     );
   } else if (
-    department !== "cundinamarca" ||
-    department !== "quindio" ||
-    department !== "antioquia" ||
+    department !== "cundinamarca" &&
+    department !== "quindio" &&
+    department !== "antioquia" &&
     department !== "valle"
   ) {
     alert(
       "Favor ingrese otro departamento entre Cundinamarca, Quindío, Antioquia y Valle"
     );
   } else if (
-    purpose !== "turismo" ||
-    purpose !== "comidas" ||
+    purpose !== "turismo" &&
+    purpose !== "comidas" &&
     purpose !== "museos"
   ) {
     alert(

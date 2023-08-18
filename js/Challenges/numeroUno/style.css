@@ -1,0 +1,33 @@
+h1 {
+    color:blueviolet;
+    font-size: 20px;
+}
+button{
+  color: hwb(43 1% 58%);
+  background-color: hsl(72, 20%, 95%) ;
+}
+
+h2 {
+  font-size: 20px;
+}
+.textoColorName {
+  color: coral;
+}
+.textoColorDni {
+  color: rgb(255, 80, 226);
+}
+.textoColorAdress {
+  color: rgb(80, 240, 255);
+}
+.textoColorAge {
+  color: rgb(223, 255, 80);
+}
+.textoColorCellphone {
+  color: rgba(144, 80, 255, 0.554);
+}
+.textoColorRh {
+  color: rgb(80, 255, 100);
+}
+.textoColorCivilStatus {
+  color: rgb(55, 4, 40);
+}

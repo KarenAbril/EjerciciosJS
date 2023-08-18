@@ -1,8 +1,8 @@
 h1{
     color:blueviolet;
-    font: size 40px;
+    font-size: 20px;
 }    
-/*me puedo inventar mi propia regla de estilo*/
+
 button{
     color: blue;
     background-color: rgb(183, 229, 18) ;
